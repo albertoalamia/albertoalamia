@@ -269,6 +269,11 @@ footer {
   nav ul li {
     margin-bottom: 10px;
   }
+  
+  #big-logo-section img {
+    width: 50%; /* adjust this as needed */
+    height: auto; /* maintain aspect ratio */
+  }
 
   #services .service {
     margin-bottom: 20px;
